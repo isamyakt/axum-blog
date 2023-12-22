@@ -1,7 +1,7 @@
 # axum-blog
 
 
-- [] Design Your Blog's Data Model
+- [ ] Design Your Blog's Data Model
     - [ ] Define the data structure for your blog posts. This typically includes fields like title, content, author, publish date, etc.
     - [ ] Choose a Database: Decide on a database (e.g., SQLite, PostgreSQL) and set up the necessary Rust crates (libraries) to interact with it.
     - [ ] ORM/Database Access: Consider using an ORM (Object-Relational Mapper) like Diesel for easier database interactions.
@@ -21,7 +21,7 @@
 
 - [ ] Frontend Integration (Optional)
     - [ ] If you want a full-stack application, consider creating a frontend using HTML/CSS/JavaScript or a JavaScript framework like React or Nextjs.
-    - [] Set up communication between your frontend and the Rust backend using JSON over HTTP.
+    - [ ] Set up communication between your frontend and the Rust backend using JSON over HTTP.
 
 - [ ] Add Advanced Features
     - [ ] Pagination: Implement pagination for displaying blog posts.
